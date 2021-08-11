@@ -6,3 +6,7 @@ base_amostra_pessoa_201812.csv
 base_amostra_familia_201212.csv
 
 base_amostra_familia_201812.csv
+
+.DS_Store
+
+.ipynb_checkpoints/
